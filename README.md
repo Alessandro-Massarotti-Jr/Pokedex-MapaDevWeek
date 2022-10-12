@@ -6,7 +6,7 @@
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alessandro-massarotti-Jr/Pokedex-MapaDevWeek?color=dadfe8&style=flat-square">
 </p>
 
- <img src="./src/images/pokedexMapaDevWeek.png" alt="Pokedex Mapa dev wiki screenshot">
+ <img src="./src/images/pokedexMapaDevWeek.png" alt="Pokedex Mapa dev week screenshot">
 
 
 Projeto desenvolvido durante a mapa dev week em 03/2022 , para o melhor entendimento das tecnologias bases do frontend
