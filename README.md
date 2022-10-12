@@ -15,7 +15,6 @@ Projeto desenvolvido durante a mapa dev week em 03/2022 , para o melhor entendim
  - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
  - [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-
 <br>
 
 ---
